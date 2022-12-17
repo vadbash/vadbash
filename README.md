@@ -1,5 +1,5 @@
 # My profile
-![GitHub watchers](https://img.shields.io/github/watchers/vadbash/vadbash?style=social)
+<img src="https://komarev.com/ghpvc/?username=vadbash&style=for-the-badge">
 
 Hello everyone! Call me Vadim. I am a beginner programmer, now I'm still learning, but I already have some knowledge in programming
 
