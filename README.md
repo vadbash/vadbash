@@ -7,8 +7,8 @@ Hello everyone! Call me Vadim. I am a beginner programmer, now I'm still learnin
 ### Languages:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-social&logo=Python)
 ### Tools:
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-social&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-social&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Vim](https://img.shields.io/badge/-Vim-black?style=flat-square&logo=Vim)
