@@ -5,9 +5,9 @@ Hello everyone! Call me Vadim. I am a beginner programmer, now I'm still learnin
 
 ## Languages and Tools
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=python,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css)]
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=linux,vim,sqlite,mysql,postgresql,git,github,figma,stackoverflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vim,sqlite,mysql,postgresql,git,github,figma,stackoverflow,vscode)]
 
 ## Contacts:
-[![My Skills](https://skillicons.dev/icons?i=tg)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
