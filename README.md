@@ -10,4 +10,5 @@ Hello everyone! Call me Vadim. I am a beginner programmer, now I'm still learnin
 ![My Skills](https://skillicons.dev/icons?i=linux,vim,sqlite,mysql,postgresql,git,github,figma,stackoverflow,vscode)
 
 ## Contacts:
-![My Skills](https://skillicons.dev/icons?i=discord)(https://discord.com/users/Vadik#9484/)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Vadik#9484/)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
