@@ -11,4 +11,3 @@ Hello everyone! Call me Vadim. I am a beginner programmer, now I'm still learnin
 
 ## Contacts:
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Vadik#9484/)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
