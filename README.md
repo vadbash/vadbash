@@ -5,7 +5,7 @@ Hello everyone! Call me Vadim. I am a beginner programmer, now I'm still learnin
 
 ## Languages and Tools
 ### Languages:
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-social&logo=Python)
 ### Tools:
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
