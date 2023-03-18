@@ -7,7 +7,7 @@ Hello everyone! Call me Vadim. I am a beginner programmer, now I'm still learnin
 ### Languages:
 ![My Skills](https://skillicons.dev/icons?i=python,html,css)
 ### Tools:
-![My Skills](https://skillicons.dev/icons?i=linux,vim,sqlite,mysql,postgresql,git,github,figma,stackoverflow,vscode,django)
+![My Skills](https://skillicons.dev/icons?i=linux,vim,sqlite,mysql,postgresql,git,github,figma,stackoverflow,vscode,django,api)
 
 ## Contacts:
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Vadik#9484/)
