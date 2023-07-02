@@ -13,3 +13,4 @@ Hello everyone! Call me Vadim. I am a beginner developer, now I'm still learning
 ## Contacts:
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Vadik#9484/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vadysic/)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Vadbash123)
