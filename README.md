@@ -9,7 +9,7 @@ Hello everyone! Call me Vadim. I am a beginner developer, now I'm still learning
 ### Tools:
 ![My Skills](https://skillicons.dev/icons?i=linux,bots,django,flask,mysql,postgresql,sqlite,git,github,githubactions,vim,vscode,arduino,fastapi,md,postman,powershell,bash,stackoverflow)
 ### FrontEnd/BackEnd:
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,jquery,js,bootstrap,nodejs,figma,wordpress)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,jquery,js,bootstrap,wordpress,nodejs,figma)
 ## Contacts:
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/Vadik#9484/)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vadysic/)
