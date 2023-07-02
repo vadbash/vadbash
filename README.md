@@ -5,7 +5,7 @@ Hello everyone! Call me Vadim. I am a beginner developer, now I'm still learning
 
 ## Languages and Tools
 ### Languages:
-![My Skills](https://skillicons.dev/icons?i=python)
+Main:![My Skills](https://skillicons.dev/icons?i=python)
 ### Familiarized:
 ![My Skills](https://skillicons.dev/icons?i=php,js,plusplus,c,arduino)
 ### Tools:
