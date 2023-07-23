@@ -28,7 +28,9 @@ Hello everyone! Call me Vadim. I am a beginner developer, now I'm still learning
 <img width="55" src="https://skillicons.dev/icons?i=githubactions"/>
 <img width="55" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"/>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png"/>
 <img width="55" src="https://skillicons.dev/icons?i=vscode"/>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png"/>
 <img width="55" src="https://img.icons8.com/?size=2x&id=13444&format=png"/>
 <img width="55" src="https://skillicons.dev/icons?i=fastapi"/>
 <img width="55" src="https://skillicons.dev/icons?i=md"/>
@@ -44,10 +46,10 @@ Hello everyone! Call me Vadim. I am a beginner developer, now I'm still learning
 
 ## Operating Systems:
 <div >
-<img width="45" src="https://img.icons8.com/?size=512&id=e9ne6HZHvrji&format=png" alt="macOS" title="macOS"/>
-<img width="45" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/>
-<img width="45" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" title="fedora"/>
-<img width="45" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
+<img width="50" src="https://img.icons8.com/?size=512&id=e9ne6HZHvrji&format=png" alt="macOS" title="macOS"/>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" title="fedora"/>
+<img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
 </div>
 
 ## Contacts:
