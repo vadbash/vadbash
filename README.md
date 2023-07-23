@@ -5,7 +5,7 @@ Hello everyone! Call me Vadim. I am a beginner developer, now I'm still learning
 
 ## Languages and Tools
 ### Languages:
-![My Skills](https://skillicons.dev/icons?i=python,php,c,cpp)
+https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png![My Skills](https://skillicons.dev/icons?i=python,php,c,cpp)
 ### Tools:
 ![My Skills](https://skillicons.dev/icons?i=linux,bots,django,flask,mysql,postgresql,sqlite,git,github,githubactions,gitlab,vim,vscode,arduino,fastapi,md,postman,powershell,bash,stackoverflow)
 ### FrontEnd/BackEnd:
