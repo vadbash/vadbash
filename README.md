@@ -41,10 +41,10 @@ Hello everyone! Call me Vadim. I am a beginner developer, now I'm still learning
 <img width="55" src="https://skillicons.dev/icons?i=stackoverflow"/>
 </div>
 
-### FrontEnd / BackEnd:
+## FrontEnd / BackEnd:
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,jquery,js,bootstrap,wordpress,nodejs,figma)
 
-## Operating Systems:
+### Operating Systems:
 <div >
 <img width="50" src="https://img.icons8.com/?size=512&id=e9ne6HZHvrji&format=png"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png"/>
