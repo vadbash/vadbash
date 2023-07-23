@@ -20,9 +20,9 @@ Hello everyone! Call me Vadim. I am a beginner developer, now I'm still learning
 <img width="55" src="https://skillicons.dev/icons?i=django"/>
 <img width="55" src="https://skillicons.dev/icons?i=flask"/>
 <img width="55" src="https://img.icons8.com/?size=512&id=59952&format=png"/>
+<img width="55" src="https://skillicons.dev/icons?i=sqlite"/> 
 <img width="55" src="https://skillicons.dev/icons?i=mysql"/>
 <img width="55" src="https://skillicons.dev/icons?i=postgresql"/>
-<img width="55" src="https://skillicons.dev/icons?i=sqlite"/>
 <img width="55" src="https://skillicons.dev/icons?i=git"/>
 <img width="55" src="https://skillicons.dev/icons?i=github"/>
 <img width="55" src="https://skillicons.dev/icons?i=githubactions"/>
