@@ -41,7 +41,7 @@ Hello everyone! Call me Vadim. I am a beginner developer, now I'm still learning
 <img width="55" src="https://skillicons.dev/icons?i=stackoverflow"/>
 </div>
 
-### FrontEnd/BackEnd:
+### FrontEnd / BackEnd:
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,jquery,js,bootstrap,wordpress,nodejs,figma)
 
 ## Operating Systems:
