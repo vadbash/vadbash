@@ -26,8 +26,8 @@ Hello everyone! Call me Vadim. I am a beginner developer, now I'm still learning
 <img width="55" src="https://skillicons.dev/icons?i=git"/>
 <img width="55" src="https://skillicons.dev/icons?i=github"/>
 <img width="55" src="https://skillicons.dev/icons?i=githubactions"/>
-<img width="55" src="https://img.icons8.com/?size=96&id=8RgdCJicqnxl&format=png"/>
 <img width="55" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"/>
+<img width="55" src="https://img.icons8.com/?size=96&id=8RgdCJicqnxl&format=png"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png"/>
 <img width="55" src="https://skillicons.dev/icons?i=vscode"/>
