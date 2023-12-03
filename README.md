@@ -39,7 +39,6 @@ Hello everyone! Call me Vadim. I am a beginner developer, now I'm still learning
 <img width="55" src="https://img.icons8.com/?size=2x&id=WbRVMGxHh74X&format=png"/>
 <img width="55" src="https://skillicons.dev/icons?i=powershell"/>
 <img width="55" src="https://skillicons.dev/icons?i=bash"/>
-<img width="55" src="https://skillicons.dev/icons?i=stackoverflow"/>
 </div>
 
 ### FrontEnd / BackEnd:
@@ -58,3 +57,4 @@ Hello everyone! Call me Vadim. I am a beginner developer, now I'm still learning
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vadysic/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Vadbash123)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vadim-bashkatov-699637292/)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22173996/vadim-bashkatov)
