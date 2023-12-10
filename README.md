@@ -1,7 +1,7 @@
 # My profile
 <img src="https://komarev.com/ghpvc/?username=vadbash&style=for-the-badge">
 
-Hello everyone! Call me Vadim. I am a beginner developer, now I'm still learning, but I already have some knowledge in programming💻
+Hello everyone! Call me Vadim. Python Middle Developer | Software Engineer💻
 
 ## Languages and Tools
 ### Languages:
