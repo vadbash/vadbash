@@ -18,7 +18,6 @@ Hello everyone! Call me Vadim. Python Middle Developer | Software Engineer💻
 <img width="55" src="https://skillicons.dev/icons?i=linux"/>
 <img width="55" src="https://skillicons.dev/icons?i=bots"/>
 <img width="55" src="https://skillicons.dev/icons?i=django"/>
-<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg"/>
 <img width="55" src="https://skillicons.dev/icons?i=flask"/>
 <img width="55" src="https://img.icons8.com/?size=512&id=59952&format=png"/>
 <img width="55" src="https://skillicons.dev/icons?i=sqlite"/> 
@@ -39,6 +38,7 @@ Hello everyone! Call me Vadim. Python Middle Developer | Software Engineer💻
 <img width="55" src="https://img.icons8.com/?size=100&id=ITIhejPZQD5g&format=png&color=000000"/>
 <img width="55" src="https://skillicons.dev/icons?i=md"/>
 <img width="55" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"/>
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg"/>
 <img width="55" src="https://img.icons8.com/?size=2x&id=WbRVMGxHh74X&format=png"/>
 <img width="55" src="https://skillicons.dev/icons?i=powershell"/>
 <img width="55" src="https://skillicons.dev/icons?i=bash"/>
