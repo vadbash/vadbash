@@ -35,6 +35,7 @@ Hello everyone! Call me Vadim. Python Middle Developer | Software Engineer💻
 <img width="55" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png"/>
 <img width="55" src="https://img.icons8.com/?size=2x&id=13444&format=png"/>
 <img width="55" src="https://skillicons.dev/icons?i=fastapi"/>
+<img width="55" src="https://img.icons8.com/?size=100&id=ITIhejPZQD5g&format=png&color=000000"/>
 <img width="55" src="https://skillicons.dev/icons?i=md"/>
 <img width="55" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"/>
 <img width="55" src="https://img.icons8.com/?size=2x&id=WbRVMGxHh74X&format=png"/>
