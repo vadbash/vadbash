@@ -50,6 +50,7 @@ Hello everyone! Call me Vadim. Python Middle Developer | Software Engineer💻
 <div >
 <img width="50" src="https://img.icons8.com/?size=512&id=e9ne6HZHvrji&format=png"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png"/>
+<img width="50" src="https://img.icons8.com/?size=512&id=101665&format=png&color=000000"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png"/>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"/>
 </div>
