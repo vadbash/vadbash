@@ -5,7 +5,6 @@ Hello everyone! Call me Vadim. Python Middle Developer | Software Engineer💻
 
 ## Languages and Tools
 ### Languages:
-
 <div>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
 <img width="50" src="https://skillicons.dev/icons?i=php"/>
@@ -23,6 +22,7 @@ Hello everyone! Call me Vadim. Python Middle Developer | Software Engineer💻
 <img width="55" src="https://skillicons.dev/icons?i=sqlite"/> 
 <img width="55" src="https://skillicons.dev/icons?i=mysql"/>
 <img width="55" src="https://skillicons.dev/icons?i=postgresql"/>
+<img width="55" src="https://skillicons.dev/icons?i=docker"/>
 <img width="55" src="https://skillicons.dev/icons?i=git"/>
 <img width="55" src="https://skillicons.dev/icons?i=github"/>
 <img width="55" src="https://skillicons.dev/icons?i=githubactions"/>
