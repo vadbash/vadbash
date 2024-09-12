@@ -18,6 +18,7 @@ Hello everyone! Call me Vadim. Python Middle Developer | Software Engineer💻
 <img width="55" src="https://skillicons.dev/icons?i=linux"/>
 <img width="55" src="https://skillicons.dev/icons?i=bots"/>
 <img width="55" src="https://skillicons.dev/icons?i=django"/>
+<img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg"/>
 <img width="55" src="https://skillicons.dev/icons?i=flask"/>
 <img width="55" src="https://img.icons8.com/?size=512&id=59952&format=png"/>
 <img width="55" src="https://skillicons.dev/icons?i=sqlite"/> 
