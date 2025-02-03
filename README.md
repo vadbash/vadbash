@@ -1,7 +1,7 @@
 # My profile
 <img src="https://komarev.com/ghpvc/?username=vadbash&style=for-the-badge">
 
-Hello everyone! Call me Vadim. Python Middle Developer | Software Engineer💻
+Hello everyone! Call me Vadym. Python Middle Developer | Software Engineer💻
 
 ## Languages and Tools
 ### Languages:
