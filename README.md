@@ -65,7 +65,9 @@ Hello everyone! Call me Vadym. Python Middle Developer | Software Engineer💻
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vadim-bashkatov-699637292/)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22173996/vadim-bashkatov)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vadbash&show_icons=true&theme=dracula&title_color=00a3d7&text_color=ffffff&locale=en" alt="vadbash" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vadbash&show_icons=true&theme=dracula&title_color=00a3d7&text_color=ffffff&locale=en&layout=compact" alt="vadbash" /></p>
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vadbash&show_icons=true&theme=dracula&title_color=00a3d7&text_color=ffffff&locale=en" alt="vadbash"/>
+&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=vadbash&show_icons=true&theme=dracula&title_color=00a3d7&text_color=ffffff&locale=en&layout=compact" alt="vadbash" />
+</div>
 
 
