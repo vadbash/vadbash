@@ -8,6 +8,7 @@ Hello everyone! Call me Vadym. Python Middle Developer | Software Engineer💻
 
 <div>
 <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>
+<img width="50" src="https://skillicons.dev/icons?i=swift"/>
 <img width="50" src="https://skillicons.dev/icons?i=php"/>
 <img width="50" src="https://skillicons.dev/icons?i=c"/>
 <img width="50" src="https://skillicons.dev/icons?i=cpp"/>
